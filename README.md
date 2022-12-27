@@ -59,6 +59,43 @@ Contact us page:
 Herbal bot:
 
 ![herbal bot](https://user-images.githubusercontent.com/119921832/206999747-a78823fb-9e3f-461b-80a6-3648dc650e3c.png)
+
+
+
+
+
+Azure Static web apps  -
+
+![Screenshot (3)](https://user-images.githubusercontent.com/119921832/209634584-8910d229-aad2-45ab-8a98-825cb863918c.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Azure Health bot  -
+![Screenshot (4)](https://user-images.githubusercontent.com/119921832/209634627-36f1da18-8b94-4b1d-9843-343095b0f005.png)
+
+
+
+
+
+
+
+
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
