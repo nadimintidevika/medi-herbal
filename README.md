@@ -26,7 +26,7 @@ Java Script
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 Project Links:
 
-Github repository Link:https://github.com/parvathidevi17/medi-herbal
+Github repository Link:https://github.com/nadimitidevika/medi-herbal
 
 Github Projct Link:https://parvathidevi17.github.io/medi-herbal/
 
