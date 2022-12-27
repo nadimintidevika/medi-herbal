@@ -28,9 +28,9 @@ Project Links:
 
 Github repository Link:https://github.com/nadimitidevika/medi-herbal
 
-Github Projct Link:https://parvathidevi17.github.io/medi-herbal/
+Github Projct Link:https://nadimitidevika.github.io/medi-herbal/
 
-Azure Project Link:https://ashy-smoke-0c5638d10.2.azurestaticapps.net
+Azure Project Link:https://orange-flower-0e5779210.2.azurestaticapps.net
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
