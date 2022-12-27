@@ -26,9 +26,9 @@ Java Script
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 Project Links:
 
-Github repository Link:https://github.com/nadimitidevika/medi-herbal
+Github repository Link:https://github.com/nadimintidevika/medi-herbal
 
-Github Projct Link:https://nadimitidevika.github.io/medi-herbal/
+Github Projct Link:
 
 Azure Project Link:https://orange-flower-0e5779210.2.azurestaticapps.net
 
